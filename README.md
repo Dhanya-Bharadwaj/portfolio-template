@@ -103,7 +103,7 @@ Your template relies on various packages. Install them with one command:
 Ready to see your portfolio?
 
 '''Bash
-  npm start
+  **npm start**
   This command starts the development server.
 '''
 
