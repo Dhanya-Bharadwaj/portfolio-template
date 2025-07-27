@@ -83,7 +83,7 @@ You have two easy ways to get the template code:
         (Again, replace `YourGitHubUsername/your-repo-name` with your actual repository link!)
     3.  This will create a new folder with the template code.
 
-**### Step 2: Open the Project**
+**Step 2: Open the Project**
 
 Now, navigate into the project folder using your terminal or command prompt:
 '''bash
