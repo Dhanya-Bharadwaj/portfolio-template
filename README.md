@@ -88,8 +88,8 @@ You have two easy ways to get the template code:
 Now, navigate into the project folder using your terminal or command prompt:
 '''bash
 cd your-repo-name
-# Or, if you downloaded the zip:
-# cd my-portfolio
+*# Or, if you downloaded the zip:
+-cd my-portfolio
 '''
 
 
