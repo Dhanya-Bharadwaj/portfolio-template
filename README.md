@@ -4,7 +4,7 @@
 # My Awesome Portfolio Template
 
 ![Portfolio Live Demo](https://portfoliotemplate-six.vercel.app/static/media/hero-image.b23c21c6.jpg)
-*Self-note: Please replace the image URL above with a direct link to a good screenshot of your live portfolio.*
+
 
 A sleek, responsive, and easily customizable personal portfolio template built with React and JavaScript. Showcase your skills, experience, projects, and contact information in a professional and engaging manner.
 
